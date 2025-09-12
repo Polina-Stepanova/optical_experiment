@@ -1,0 +1,24 @@
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csprojResolveAssemblyReference.cache
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form1.resources
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form2.resources
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form3.resources
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csproj.GenerateResource.Cache
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csproj.AssemblyReference.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form1.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form2.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.Form3.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csproj.GenerateResource.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\OpticalExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Polin\Downloads\в смысле работать\ооп\VSproject_OptExp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
